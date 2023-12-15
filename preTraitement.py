@@ -1,6 +1,6 @@
 import json
 import pandas as pd
-from tqdm import tqdm  # Importez tqdm pour la barre de progression
+from tqdm import tqdm
 
 def preTraitement():
     data_list = []
